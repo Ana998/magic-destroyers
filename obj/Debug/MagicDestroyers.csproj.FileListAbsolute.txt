@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MagicDestroyers\bin\Debug\MagicDestroyers.exe.config
+C:\Users\Acer\source\repos\MagicDestroyers\bin\Debug\MagicDestroyers.exe
+C:\Users\Acer\source\repos\MagicDestroyers\bin\Debug\MagicDestroyers.pdb
+C:\Users\Acer\source\repos\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MagicDestroyers\obj\Debug\MagicDestroyers.exe
+C:\Users\Acer\source\repos\MagicDestroyers\obj\Debug\MagicDestroyers.pdb

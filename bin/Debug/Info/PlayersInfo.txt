@@ -1,0 +1,6 @@
+Warrior Jack,20,3
+Assasin Snark,9,1
+Knight Uther,12,2
+Mage Merlin,24,3
+Druid Cenarius,4,1
+Necromancer Necromus,0,1
